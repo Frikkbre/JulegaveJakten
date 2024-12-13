@@ -2,9 +2,29 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>$Title$</title>
+  <title>Løsningsside</title>
+  <link rel="stylesheet" href="../styling/MainCSS.css">
 </head>
 <body>
-$END$
+<nav>
+  <ul>
+    <li><a href="Main.html">Home</a></li>
+    <li><a href="oppgave1.html">Oppgave 1</a></li>
+    <li><a href="Oppgave2.html">Oppgave 2</a></li>
+    <li><a href="Oppgave3.html">Oppgave 3</a></li>
+    <li><a href="solution.html">Gaven</a></li>
+  </ul>
+</nav>
+
+<div class="center-content">
+<h3>Skriv inn løsnings-ordet du har funnet:</h3>
+<form id="solutionForm">
+  <input type="text" id="solutionInput" maxlength="3" required>
+  <button type="submit">sjekk</button>
+</form>
+<p id="result"></p>
+
+<script src="../script/solutionScript.js"></script>
+</div>
 </body>
 </html>
