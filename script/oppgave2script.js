@@ -5,7 +5,7 @@ document.getElementById('task2Form').addEventListener('submit', function(event) 
     const task2Input = document.getElementById('task2Input').value;
     const task2Result = document.getElementById('task2Result');
 
-    if (task2Input === '30.10.2023') { // Replace with the correct answer
+    if (task2Input === '30.10.2023') {
         task2Result.textContent = 'Riktig! Det andre ordet er: gleder';
     } else {
         wrongCounter += 1;
