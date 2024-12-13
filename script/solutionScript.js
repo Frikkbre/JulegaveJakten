@@ -6,7 +6,7 @@ document.getElementById('solutionForm').addEventListener('submit', function(even
     if (solutionInput.toLocaleLowerCase() === 'jeg gleder meg') {
         solutionResult.textContent = 'Riktig! og det jeg gleder meg til er:';
         setTimeout(() => {
-            window.location.href = 'newPage.html';
+            window.location.href = '../webPage/gave.html';
         }, 3000);
 
     } else {
