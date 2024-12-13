@@ -1,14 +1,12 @@
 document.getElementById('solutionForm').addEventListener('submit', function(event) {
     event.preventDefault();
     const solutionInput = document.getElementById('solutionInput').value;
-    const result = document.getElementById('result');
+    const solutionResult = document.getElementById('solutionResult');
 
-    if (solutionInput.length === 3) {
-        result.textContent = 'Correct length!';
-        if (solutionInput === 'cat') {
-            result.textContent = 'Correct!';
-        }
+    if (solutionInput.toLocaleLowerCase() === 'jeg gleder meg') {
+        solutionResult.textContent = 'Riktig! og det jeg gleder meg til er:';
+        solutionResult.textContent = 'page for displaying tickets';
     } else {
-        result.textContent = 'The solution word must be exactly three letters.';
+        solutionResult.textContent = 'Ikke helt riktig... det skal være tre ord.';
     }
 });
