@@ -5,7 +5,7 @@ document.getElementById('task1Form').addEventListener('submit', function(event) 
     const task1Input = document.getElementById('task1Input').value;
     const task1Result = document.getElementById('task1Result');
 
-    if (task1Input.toLowerCase() === 'mar') { // Replace 'mar' with the actual answer
+    if (task1Input.toLowerCase() === 'mar') {
         task1Result.textContent = 'Riktig! der første ordet er: jeg';
     } else {
         wrongCounter += 1;
@@ -15,7 +15,7 @@ document.getElementById('task1Form').addEventListener('submit', function(event) 
             task1Result.textContent = 'Hint: Svaret er tre bokstaver langt';
 
         } else {
-            task1Result.textContent = 'Incorrect answer. Try again.';
+            task1Result.textContent = 'Feil! Prøv igjen.';
         }
     }
 });
