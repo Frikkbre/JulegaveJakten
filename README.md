@@ -19,14 +19,18 @@ Din første oppgave er å finne ut hvordan du kjører programmet. hint: scroll n
 |   |   oppgave1script.js
 |   |   oppgave2script.js
 |   |   oppgave3script.js
+|   |   oppgave4script.js
 |   |   solutionScript.js
 |   styling
 |   |   MainCSS.css
 |   webPage
 |   |   Main.html
+|   |   gave.html
+|   |   gave2.html
 |   |   oppgave1.html
 |   |   oppgave2.html
 |   |   oppgave3.html
+|   |   oppgave4.html
 |   |   solution.html
 |   img
 |   |   bil.png
@@ -34,6 +38,9 @@ Din første oppgave er å finne ut hvordan du kjører programmet. hint: scroll n
 |   |   oppgave2Bilde.png
 |   |   show.png
 |   |   sillyCat.png
+|   |   pasta.jpeg
+|   |   pizza.jpg
+|   |   butterChicken.png
 ```
 
 ## How to run the project
