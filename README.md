@@ -45,6 +45,7 @@ Din første oppgave er å finne ut hvordan du kjører programmet. hint: scroll n
 
 ## How to run the project
 For å kjøre programmet må du ente laste ned eller clone repositoriet.
-Når du har gjort det, åpne filen `index.html`.
+Når du har gjort det, åpne filen `index.html`. Du kan for eksempel bruke JetBrains WebStorm eller Visual Studio Code (VSC).
+For å clone repoet skriver du git clone også repo linken som du finner i toppen.
 
 Eller kjør programmet via denne linken: [Julegave Aoife De Lange 2024](https://frikkbre.github.io/index.html)
