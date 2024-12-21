@@ -49,3 +49,4 @@ Når du har gjort det, åpne filen `index.html`. Du kan for eksempel bruke JetBr
 For å clone repoet skriver du git clone også repo linken som du finner i toppen.
 
 Eller kjør programmet via denne linken: [Julegave Aoife De Lange 2024](https://frikkbre.github.io/index.html)
+Lykke til!
