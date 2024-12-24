@@ -9,6 +9,14 @@ Hvem vet, kanskje det er flere gaver her...
 
 Din første oppgave er å finne ut hvordan du kjører programmet. hint: scroll ned.
 
+## Regler
+- Du kan ikke endre på koden.
+- Du kan ikke bruke inspect element.
+- Du kan ikke sjekke igjennom filene.
+- Du kan ikke se på bilde filene før du har løst oppgaven.
+
+- Du kan spørre om hjelp hvis du står fast.
+
 
 ## Hvordan kjøre programmet
 For å kjøre programmet må du ente laste ned eller clone repositoriet.
