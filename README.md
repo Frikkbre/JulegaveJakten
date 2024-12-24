@@ -3,6 +3,7 @@
 # Laget av
 Frikk Brændsrød
 
+
 ## Prosjekt beskrivelse
 Julegave jakten er laget for å skjule julegaven din. For å finne gaven må du løse alle spørsmålene. Hvert spørsmål gir deg en ledetråd til hva gaven er.
 Hvem vet, kanskje det er flere gaver her...
